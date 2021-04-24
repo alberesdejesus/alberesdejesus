@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, welcome to my page!</h1>
-<h3 align="center">I'm Alberes, i'm live in Brazil and currently learning Python, Flutter and Information Security!</br>
+<h3 align="center">I'm Alberes, i'm live in Brazil 🇧🇷 and currently learning Python, Flutter and Information Security!</br>
 I like to program and the concept of Security in IT, these are my focus</h3>
 
 
