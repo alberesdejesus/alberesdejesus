@@ -1,10 +1,9 @@
 
-<h1 align="center">Hi 👋, welcome to my page!</h1>
-<h3 align="center">I'm Alberes, i'm live in Brazil 🇧🇷 and currently learning Python, Flutter and Information Security!</br>
-I like to program and the concept of Security in IT, these are my focus</h3>
+# Hi 👋, welcome to my page!
+<p>I'm Alberes, currently pursuing my Associate Degree in Information Security from Fatec Antonio Russo - São Caetano do Sul. I live in <img src="https://www.flaticon.com/svg/vstatic/svg/3022/3022546.svg?token=exp=1619284216~hmac=0d975e5e32131d21334a10ff5934b8db" width="17"> <b>Brazil</b> and currently learning Python, Flutter and Information Security! I like to program and the concept of Security in IT</p>
 
 
-# Languages and Tools:
+# 💻Languages and Tools:
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.android.com" target="_blank"> 
@@ -56,9 +55,8 @@ I like to program and the concept of Security in IT, these are my focus</h3>
 </a>  
 </div>  
 
-# Git Stats
+# ⚡Git Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alberesdejesus&show_icons=true&locale=en&layout=compact" alt="alberesdejesus" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alberesdejesus&show_icons=true&locale=en" alt="alberesdejesus" /></p>
-
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alberesdejesus&show_icons=true&locale=en" alt="alberesdejesus" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alberesdejesus&show_icons=true&locale=en&layout=compact" alt="alberesdejesus" /></p>
