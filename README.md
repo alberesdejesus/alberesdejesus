@@ -1,9 +1,25 @@
 
 # Hi 👋, welcome to my page!
-<p>I'm Alberes, currently pursuing my Associate Degree in Information Security from Fatec Antonio Russo - São Caetano do Sul. I live in <img src="https://www.flaticon.com/svg/vstatic/svg/3022/3022546.svg?token=exp=1619284216~hmac=0d975e5e32131d21334a10ff5934b8db" width="17"> <b>Brazil</b> and currently learning Python, Flutter and Information Security! I like to program and the concept of Security in IT</p>
+<h3 align="center">I'm Alberes, a passionate about development and security in IT . In the moment I am just a beginner, but work to improve myself and get a lot of knowledge. </h3>
 
 
-# 💻Languages and Tools:
+* 🏠 I’m currently living at São Paulo, Brazil <img src="https://www.flaticon.com/svg/vstatic/svg/3022/3022546.svg?token=exp=1619284216~hmac=0d975e5e32131d21334a10ff5934b8db" width="17"> </br>
+* 🎓 I'm currently pursuing my Associate Degree in Information Security at Fatec Antonio Russo - São Caetano do Sul </br>
+* 🌱 I'm currently learning learning Python, Flutter, Information Security and English</br>
+* 💓 Love for science and innovation.
+
+### Connect with me  
+<div align="left">
+<a href="https://github.com/alberesdejesus" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/alberes-de-jesus" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+## 💻Languages and Tools:
+
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.android.com" target="_blank"> 
@@ -45,17 +61,9 @@
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003b57?style=for-the-badge&logo=sqlite" />
 </p>
 
-## Connect with me  
-<div align="left">
-<a href="https://github.com/alberesdejesus" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/alberes-de-jesus" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
-# ⚡Git Stats
+
+## ⚡Git Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=alberesdejesus&show_icons=true&locale=en" alt="alberesdejesus" width='500'/>
