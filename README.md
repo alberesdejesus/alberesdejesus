@@ -66,5 +66,5 @@
 ## ⚡Git Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alberesdejesus&show_icons=true&locale=en" alt="alberesdejesus" width='500'/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alberesdejesus&show_icons=true&locale=en" alt="alberesdejesus" width='450'/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alberesdejesus&show_icons=true&locale=en&layout=compact" alt="alberesdejesus" /></p>
