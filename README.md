@@ -3,7 +3,7 @@
 <h3 align="center">I'm Alberes, a passionate about development and security in IT . In the moment I am just a beginner, but work to improve myself and get a lot of knowledge. </h3>
 
 
-* 🏠 I’m currently living at São Paulo, Brazil <img src="https://www.flaticon.com/svg/vstatic/svg/3022/3022546.svg?token=exp=1619284216~hmac=0d975e5e32131d21334a10ff5934b8db" width="17"> </br>
+* 🏠 I’m currently living at São Paulo, Brazil <img src="./images/brazil.png" width="19"> </br>
 * 🎓 I'm currently pursuing my Associate Degree in Information Security at Fatec Antonio Russo - São Caetano do Sul </br>
 * 🌱 I'm currently learning learning Python, Flutter, Information Security and English</br>
 * 💓 Love for science and innovation.
